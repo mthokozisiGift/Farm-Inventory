@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Farm-Inventory.vcxproj" Id="40b6e6bb-724f-4c0a-8e78-c1546cf36cc0" />
+</Solution>
